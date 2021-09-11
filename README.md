@@ -1,3 +1,3 @@
 # Pretty-numbers
-The program is used for calculating the amount of all possible "pretty" numbers in BaseN number system (up to Base16 system) 
+The program is used for calculating the amount of all possible "pretty" numbers in BaseN number system (up to Base16 system). 
 Amount of "pretty" numbers -- the sum of all digits in its left number part is equal to its right part, i.e. 59186, 77123695501, 2446550...
