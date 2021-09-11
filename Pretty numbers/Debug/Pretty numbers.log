@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Dew\source\repos\Pretty numbers\Pretty numbers\main.cpp(85,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  Pretty numbers.vcxproj -> C:\Users\Dew\source\repos\Pretty numbers\Debug\Pretty numbers.exe
